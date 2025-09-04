@@ -42,7 +42,8 @@ No complex setup is required. To run this application, simply open the `index.ht
 
 1.  Clone this repository or download the source code.
 2.  Navigate to the project directory.
-3.  Open `index.html` in your browser (e.g., by double-clicking it).
+3.  `npm install`
+4.  `npm run dev`
 
 📂 Project Structure
 ---------------------
