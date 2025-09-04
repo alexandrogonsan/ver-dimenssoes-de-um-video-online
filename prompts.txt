@@ -1,0 +1,5 @@
+
+aistudio.google.com/apps
+
+usar o client browser para ver dimenssões de um vídeo do user
+crie um ReadMe.RST com reStructuredText
