@@ -1,0 +1,5 @@
+{
+  "name": "Video Dimension Checker",
+  "description": "A user-friendly tool to upload a local video file and instantly view its dimensions (width and height). All processing happens in the browser, ensuring user privacy.",
+  "requestFramePermissions": []
+}
